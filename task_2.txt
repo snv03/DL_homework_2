@@ -1,0 +1,27 @@
+\s\b[O|o][A-Za-z0-9._+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,6}
+25
+To: outlook.team@enron.com
+To: outlook.team@enron.com
+ Outlook.2000@enron.com
+in the subject line, or send a blank e-mail to
+blank e-mail to on-yild@zdemail.zdlists.com
+Sender: owner-strawbale@crest.org
+From: owner-strawbale@crest.org
+X-From: owner-strawbale@crest.org
+Sender: owner-strawbale@crest.org
+To: outlook.team@enron.com
+ Outlook.2000@enron.com
+From: outlook-migration-team@enron.com
+From: outlook-migration-team@enron.com
+you prefer not to receive emails of this nature please send an email to rem=
+From: online.service@schwab.com
+	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+From: open2win.0ll1.net@mailman.enron.com
+From: oportunity@cells4free.com
+in the subject line, or send a blank e-mail to
+blank e-mail to on-yild@zdemail.zdlists.com
+From: owner-strawbale@crest.org
+X-From: owner-strawbale@crest.org
+Sender: owner-strawbale@crest.org
+Sender: owner-strawbale@crest.org
+ Outlook.2000@enron.com
